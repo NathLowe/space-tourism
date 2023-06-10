@@ -1,0 +1,8 @@
+body{
+    background: red;
+}
+
+header ul{
+    background-color: #97979729;
+    /* backdrop-filter: blur(10px); */
+}
